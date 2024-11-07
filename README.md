@@ -1,4 +1,4 @@
-# Image-Classification-ML
+
 # Image Classification with TensorFlow
 
 This project demonstrates an image classification model using TensorFlow and Keras. The model is designed to classify images into two categories: "Old" and "Young". The dataset is loaded from a directory structure, preprocessed, and then used to train a convolutional neural network (CNN).
